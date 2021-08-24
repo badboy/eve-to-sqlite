@@ -6,7 +6,7 @@ Convert [Eve](https://www.evehome.com/) measurement exports to a SQLite database
 
 ## How to install
 
-    $ pip install git+https://github.com/badboy/eve-to-sqlite
+    $ pip install eve-to-sqlite
 
 ## How to use
 
