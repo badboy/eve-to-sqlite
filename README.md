@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/badboy/eve-to-sqlite/blob/main/LICENSE)
 
-Convert Eve measurement exports to a SQLite database.
+Convert [Eve](https://www.evehome.com/) measurement exports to a SQLite database.
 
 ## How to install
 
