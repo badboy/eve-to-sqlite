@@ -1,5 +1,6 @@
 # eve-to-sqlite
 
+[![PyPI](https://img.shields.io/pypi/v/eve-to-sqlite.svg)](https://pypi.org/project/eve-to-sqlite/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/badboy/eve-to-sqlite/blob/main/LICENSE)
 
 Convert [Eve](https://www.evehome.com/) measurement exports to a SQLite database.
